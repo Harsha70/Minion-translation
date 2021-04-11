@@ -1,0 +1,33 @@
+:root{
+    background-color: darkcyan;
+    --primary-color: e6dd3b;
+}
+
+textarea{
+    width:70%;
+    height: 10vh;
+    padding: 2rem;
+
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button {
+    background-color: #e0f568;
+    border-radius: 1rem;
+    color: black;
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 2rem auto;
+    cursor: pointer;
+    }
+
+.hero-heading {
+    text-align: center;
+}
